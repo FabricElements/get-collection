@@ -1,0 +1,28 @@
+{
+  "name": "get-collection",
+  "description": "A collection of Polymer behaviors",
+  "main": "get-collection.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "element-collection"
+  ],
+  "version": "v0.1-alpha",
+  "homepage": "https://github.com/FabricElements/get-collection",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Erny Sans",
+      "url": "http://erny.co"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FabricElements/get-collection.git"
+  },
+  "dependencies": {
+    "get-timer": "FabricElements/get-timer"
+  }
+}
