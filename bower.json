@@ -23,6 +23,7 @@
     "url": "git://github.com/FabricElements/get-collection.git"
   },
   "dependencies": {
-    "get-timer": "FabricElements/get-timer"
+    "get-timer": "FabricElements/get-timer",
+    "get-human-behavior": "FabricElements/get-human-behavior"
   }
 }
